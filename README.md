@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm ahmed mahmoud abdelmouty</h1>
-<h3 align="center">A passionate frontend developer from Egypt</h3>
+<h3 align="center">A passionate Flutter developer from Egypt</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dabosha27&label=Profile%20views&color=0e75b6&style=flat" alt="dabosha27" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dabosha27" alt="dabosha27" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/dabosha27" target="blank"><img src="https://img.shields.io/twitter/follow/dabosha27?logo=twitter&style=for-the-badge" alt="dabosha27" /></a> </p>
 
 - 🌱 I’m currently learning **flutter,firebase**
 
